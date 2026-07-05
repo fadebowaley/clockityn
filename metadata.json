@@ -1,0 +1,6 @@
+{
+  "name": "Selah - Sermon Quotes & Scripture Card Creator",
+  "description": "A premium social sharing platform and card designer inspired by Instagram, dedicated to high-impact sermon quotes, Scripture references, and background sermon audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
